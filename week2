@@ -1,0 +1,101 @@
+Great! Let’s move on to **Week 2** of your React development roadmap. This week, you’ll **build on your basics** by creating simple interactive web pages using JavaScript, then **get comfortable with TypeScript** and how it connects with modern front-end tools like **Webpack**. The goal is to start preparing for setting up a React project in Week 3.
+
+---
+
+## ✅ **Week 2: JavaScript Projects + TypeScript & Webpack Introduction**
+
+### 🔹 Goal:
+
+* Apply JavaScript in real web pages.
+* Learn the basics of TypeScript syntax and how it compares to JavaScript.
+* Understand what Webpack is and why it's important for React development.
+
+---
+
+### 📅 **Day-by-Day Plan**
+
+---
+
+### **🛠️ Day 1–2: JavaScript in Action**
+
+**Topics:**
+
+* DOM selection (`getElementById`, `querySelector`)
+* Events (`click`, `submit`)
+* Creating elements and appending to the DOM
+
+**Do This:**
+
+* [ ] Build a simple To-Do List app in plain HTML/CSS/JavaScript
+* [ ] Add a button that adds tasks, and delete tasks when clicked
+
+**Learn From:**
+
+* [DOM Tutorial – freeCodeCamp](https://www.freecodecamp.org/news/javascript-dom-manipulation/)
+* [Simple JS To-Do App – YouTube](https://www.youtube.com/watch?v=Ttf3CEsEwMQ)
+
+---
+
+### **🔤 Day 3–4: Deeper Dive into TypeScript**
+
+**Topics:**
+
+* Basic types: `string`, `number`, `boolean`, `any`
+* Interfaces and object typing
+* Function return types
+* Type aliases and union types
+
+**Do This:**
+
+* [ ] Convert your To-Do app logic to TypeScript (in VS Code)
+* [ ] Practice writing small functions using TypeScript
+
+**Learn From:**
+
+* [TS Handbook – Basic Types](https://www.typescriptlang.org/docs/handbook/basic-types.html)
+* [TypeScript Crash Course – Traversy Media](https://www.youtube.com/watch?v=rAy_3SIqT-E)
+
+---
+
+### **📦 Day 5–6: Introduction to Webpack**
+
+**Topics:**
+
+* What is Webpack? Why do we need it?
+* Entry point, output, loaders, plugins
+* Babel for converting modern JS/TS to browser-compatible code
+
+**Do This:**
+
+* [ ] Create a basic Webpack config file from scratch
+* [ ] Bundle a small project with Webpack (even just a Hello World)
+
+**Learn From:**
+
+* [Webpack 5 Crash Course – YouTube](https://www.youtube.com/watch?v=IZGNcSuwBZs)
+* [Webpack Official Guide](https://webpack.js.org/guides/getting-started/)
+
+---
+
+### **🧠 Day 7: Review + Mini Project**
+
+**Mini Project Idea:**
+✅ Build a **Tip Calculator App** with:
+
+* HTML form (bill amount + tip %)
+* JavaScript/TypeScript to calculate the result
+* Styled with CSS
+* Bundle it using Webpack
+
+---
+
+### 📝 Week 2 Review Checklist
+
+* [ ] I can write JavaScript that interacts with the DOM and handles events.
+* [ ] I understand the difference between JavaScript and TypeScript.
+* [ ] I can use TypeScript to define types and functions.
+* [ ] I have created a basic Webpack setup for bundling code.
+
+---
+
+Would you like me to give you a working folder structure and starter files for the **Tip Calculator** mini project?
