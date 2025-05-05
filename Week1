@@ -1,0 +1,109 @@
+Perfect! Let’s kick off **Week 1** of your React Development roadmap. The goal this week is to **build strong foundational skills** in HTML, CSS, JavaScript, and TypeScript basics. Since you’re new to this, we’ll take it one step at a time with simple goals, small tasks, and beginner-friendly resources.
+
+---
+
+## ✅ **Week 1: Web Development Foundations**
+
+### 🔹 Goal:
+
+Understand the **basics of how websites work**, including structure (HTML), styling (CSS), logic (JavaScript), and a light intro to TypeScript.
+
+---
+
+### 📅 **Daily Plan (Flexible)**
+
+Feel free to shift days around to fit your schedule!
+
+---
+
+### **📘 Day 1–2: HTML Basics**
+
+**Topics to Cover:**
+
+* HTML structure (`<html>`, `<head>`, `<body>`)
+* Headings, paragraphs, images, links, and lists
+* Forms and inputs
+
+**Do This:**
+
+* [ ] Build a simple webpage about yourself with your name, hobbies, and an image
+* [ ] Try using `<form>` and `<input>` to create a contact form
+
+**Learn From:**
+
+* [HTML Crash Course – Traversy Media (YouTube)](https://www.youtube.com/watch?v=UB1O30fR-EE)
+* [MDN HTML Guide](https://developer.mozilla.org/en-US/docs/Web/HTML)
+
+---
+
+### **🎨 Day 3–4: CSS Basics**
+
+**Topics to Cover:**
+
+* Selectors and properties (color, background, padding, margin)
+* Layout with Flexbox
+* Class and ID selectors
+
+**Do This:**
+
+* [ ] Style your HTML webpage with colors and layout
+* [ ] Use Flexbox to arrange items horizontally or vertically
+
+**Learn From:**
+
+* [CSS Crash Course – Traversy Media (YouTube)](https://www.youtube.com/watch?v=yfoY53QXEnI)
+* [Flexbox Froggy (Game)](https://flexboxfroggy.com/)
+
+---
+
+### **🧠 Day 5–6: JavaScript Basics**
+
+**Topics to Cover:**
+
+* Variables (`let`, `const`)
+* Functions and conditionals
+* Arrays and objects
+* DOM manipulation (`document.getElementById`, `innerHTML`, etc.)
+
+**Do This:**
+
+* [ ] Write a simple JavaScript that changes text when a button is clicked
+* [ ] Create a “click counter” app
+
+**Learn From:**
+
+* [JavaScript Basics – freeCodeCamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)
+* [JavaScript.info](https://javascript.info/first-steps)
+
+---
+
+### 🧩 Day 7: Intro to TypeScript
+
+**Topics to Cover:**
+
+* What is TypeScript and why use it?
+* Type annotations for variables
+* Defining functions with types
+
+**Do This:**
+
+* [ ] Convert a small JavaScript function into TypeScript
+* [ ] Try declaring variables with types (string, number, boolean)
+
+**Learn From:**
+
+* [TypeScript for Beginners – Programming with Mosh (YouTube)](https://www.youtube.com/watch?v=d56mG7DezGs)
+* [TypeScript Docs](https://www.typescriptlang.org/docs/)
+
+---
+
+### 📝 Week 1 Review Checklist
+
+* [ ] I can create a basic HTML page with text, images, and forms.
+* [ ] I understand how to apply CSS for styling and layout.
+* [ ] I can write simple JavaScript to handle user interaction.
+* [ ] I understand what TypeScript is and how to declare basic types.
+
+---
+
+Would you like a practice assignment or mini project for the end of Week 1?
